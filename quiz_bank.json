@@ -1,0 +1,1410 @@
+{
+    "questions": [
+        {
+            "id": 1,
+            "question": "What is the primary function of a jet engine?",
+            "options": [
+                "a) To provide thrust for an aircraft",
+                "b) To generate lift",
+                "c) To control aircraft pitch",
+                "d) To steer the aircraft"
+            ],
+            "answer": "a",
+            "branches": [
+                "Aerospace Engineering"
+            ]
+        },
+        {
+            "id": 2,
+            "question": "What is the purpose of a wing's airfoil design?",
+            "options": [
+                "a) To maximize drag",
+                "b) To minimize fuel consumption",
+                "c) To generate lift",
+                "d) To increase engine power"
+            ],
+            "answer": "c",
+            "branches": [
+                "Aerospace Engineering"
+            ]
+        },
+        {
+            "id": 3,
+            "question": "What is the primary material used in modern spacecraft construction?",
+            "options": [
+                "a) Steel",
+                "b) Aluminum",
+                "c) Titanium",
+                "d) Carbon fiber composite"
+            ],
+            "answer": "d",
+            "branches": [
+                "Aerospace Engineering"
+            ]
+        },
+        {
+            "id": 4,
+            "question": "What is the primary purpose of crop rotation?",
+            "options": [
+                "a) To improve soil fertility",
+                "b) To control weeds",
+                "c) To increase yield",
+                "d) All of the above"
+            ],
+            "answer": "d",
+            "branches": [
+                "Agriculture"
+            ]
+        },
+        {
+            "id": 5,
+            "question": "What is the role of irrigation in modern agriculture?",
+            "options": [
+                "a) To provide water to crops during dry periods",
+                "b) To cool the surrounding environment",
+                "c) To prevent soil erosion",
+                "d) All of the above"
+            ],
+            "answer": "a",
+            "branches": [
+                "Agriculture"
+            ]
+        },
+        {
+            "id": 6,
+            "question": "What is the main advantage of genetically modified crops?",
+            "options": [
+                "a) Higher yield",
+                "b) Improved pest resistance",
+                "c) Increased nutritional value",
+                "d) All of the above"
+            ],
+            "answer": "d",
+            "branches": [
+                "Agriculture"
+            ]
+        },
+        {
+            "id": 7,
+            "question": "What is the primary function of a building's foundation?",
+            "options": [
+                "a) To provide aesthetic appeal",
+                "b) To support the weight of the structure",
+                "c) To insulate the building",
+                "d) To ventilate the building"
+            ],
+            "answer": "b",
+            "branches": [
+                "Architecture"
+            ]
+        },
+        {
+            "id": 8,
+            "question": "What is the purpose of a building's load-bearing walls?",
+            "options": [
+                "a) To create rooms",
+                "b) To support the roof",
+                "c) To provide insulation",
+                "d) To allow natural light"
+            ],
+            "answer": "b",
+            "branches": [
+                "Architecture"
+            ]
+        },
+        {
+            "id": 9,
+            "question": "What is the role of passive solar design in architecture?",
+            "options": [
+                "a) To generate electricity",
+                "b) To reduce energy consumption",
+                "c) To increase building height",
+                "d) To improve acoustics"
+            ],
+            "answer": "b",
+            "branches": [
+                "Architecture"
+            ]
+        },
+        {
+            "id": 10,
+            "question": "What is the primary goal of machine learning algorithms?",
+            "options": [
+                "a) To mimic human decision-making",
+                "b) To find patterns in data",
+                "c) To generate realistic images",
+                "d) To control robotic systems"
+            ],
+            "answer": "b",
+            "branches": [
+                "Artificial Intelligence (AI)"
+            ]
+        },
+        {
+            "id": 11,
+            "question": "What is the primary function of a neural network in AI?",
+            "options": [
+                "a) To process natural language",
+                "b) To recognize images",
+                "c) To make predictions",
+                "d) All of the above"
+            ],
+            "answer": "d",
+            "branches": [
+                "Artificial Intelligence (AI)"
+            ]
+        },
+        {
+            "id": 12,
+            "question": "What is the main challenge in developing ethical AI systems?",
+            "options": [
+                "a) Ensuring unbiased decision-making",
+                "b) Improving computational speed",
+                "c) Reducing energy consumption",
+                "d) Increasing data storage capacity"
+            ],
+            "answer": "a",
+            "branches": [
+                "Artificial Intelligence (AI)"
+            ]
+        },
+        {
+            "id": 13,
+            "question": "What is the primary purpose of a bridge's abutments?",
+            "options": [
+                "a) To support the deck",
+                "b) To control traffic flow",
+                "c) To provide aesthetic appeal",
+                "d) To allow for expansion"
+            ],
+            "answer": "a",
+            "branches": [
+                "Civil Engineering"
+            ]
+        },
+        {
+            "id": 14,
+            "question": "What is the role of reinforced concrete in modern construction?",
+            "options": [
+                "a) To increase tensile strength",
+                "b) To improve resistance to compression",
+                "c) To enhance durability",
+                "d) All of the above"
+            ],
+            "answer": "d",
+            "branches": [
+                "Civil Engineering"
+            ]
+        },
+        {
+            "id": 15,
+            "question": "What is the main function of a building's HVAC system?",
+            "options": [
+                "a) To provide lighting",
+                "b) To control temperature and humidity",
+                "c) To manage water supply",
+                "d) To ensure structural integrity"
+            ],
+            "answer": "b",
+            "branches": [
+                "Civil Engineering"
+            ]
+        },
+        {
+            "id": 16,
+            "question": "What is the primary goal of a company's marketing strategy?",
+            "options": [
+                "a) To increase brand awareness",
+                "b) To reduce production costs",
+                "c) To improve customer service",
+                "d) To diversify product offerings"
+            ],
+            "answer": "a",
+            "branches": [
+                "Commerce"
+            ]
+        },
+        {
+            "id": 17,
+            "question": "What is the main purpose of a supply chain management system?",
+            "options": [
+                "a) To optimize inventory levels",
+                "b) To automate financial transactions",
+                "c) To analyze customer behavior",
+                "d) To manage human resources"
+            ],
+            "answer": "a",
+            "branches": [
+                "Commerce"
+            ]
+        },
+        {
+            "id": 18,
+            "question": "What is the primary role of e-commerce platforms in modern business?",
+            "options": [
+                "a) To facilitate online transactions",
+                "b) To provide customer support",
+                "c) To manage product logistics",
+                "d) To generate marketing leads"
+            ],
+            "answer": "a",
+            "branches": [
+                "Commerce"
+            ]
+        },
+        {
+            "id": 19,
+            "question": "What is the primary function of an operating system?",
+            "options": [
+                "a) To manage hardware resources",
+                "b) To execute application software",
+                "c) To store user data",
+                "d) Both a and b"
+            ],
+            "answer": "d",
+            "branches": [
+                "Computer Science Engineering"
+            ]
+        },
+        {
+            "id": 20,
+            "question": "What is the purpose of object-oriented programming?",
+            "options": [
+                "a) To improve code readability",
+                "b) To enhance program efficiency",
+                "c) To promote code reusability",
+                "d) All of the above"
+            ],
+            "answer": "d",
+            "branches": [
+                "Computer Science Engineering"
+            ]
+        },
+        {
+            "id": 21,
+            "question": "What is the main role of a database management system?",
+            "options": [
+                "a) To store and retrieve data",
+                "b) To perform mathematical calculations",
+                "c) To generate reports",
+                "d) To manage user accounts"
+            ],
+            "answer": "a",
+            "branches": [
+                "Computer Science Engineering"
+            ]
+        },
+        {
+            "id": 22,
+            "question": "What is the primary function of a computer's CPU?",
+            "options": [
+                "a) To execute instructions",
+                "b) To store data in memory",
+                "c) To manage input/output devices",
+                "d) To provide power to the system"
+            ],
+            "answer": "a",
+            "branches": [
+                "Computer Science/IT"
+            ]
+        },
+        {
+            "id": 23,
+            "question": "What is the main purpose of a computer network?",
+            "options": [
+                "a) To share resources",
+                "b) To improve data security",
+                "c) To increase computing power",
+                "d) All of the above"
+            ],
+            "answer": "d",
+            "branches": [
+                "Computer Science/IT"
+            ]
+        },
+        {
+            "id": 24,
+            "question": "What is the primary role of a web browser?",
+            "options": [
+                "a) To display web pages",
+                "b) To send and receive emails",
+                "c) To manage file storage",
+                "d) To run desktop applications"
+            ],
+            "answer": "a",
+            "branches": [
+                "Computer Science/IT"
+            ]
+        },
+        {
+            "id": 25,
+            "question": "What is the primary goal of macroeconomic policies?",
+            "options": [
+                "a) To maximize individual profits",
+                "b) To stabilize the overall economy",
+                "c) To promote international trade",
+                "d) To reduce government spending"
+            ],
+            "answer": "b",
+            "branches": [
+                "Economics",
+                "Computer Science/IT"
+            ]
+        },
+        {
+            "id": 26,
+            "question": "What is the main purpose of supply and demand analysis?",
+            "options": [
+                "a) To determine equilibrium prices",
+                "b) To forecast market trends",
+                "c) To manage inventory levels",
+                "d) To analyze consumer behavior"
+            ],
+            "answer": "a",
+            "branches": [
+                "Economics",
+                "Computer Science/IT"
+            ]
+        },
+        {
+            "id": 27,
+            "question": "What is the role of fiscal policy in an economy?",
+            "options": [
+                "a) To control inflation",
+                "b) To regulate interest rates",
+                "c) To manage government revenue and expenditure",
+                "d) To influence currency exchange rates"
+            ],
+            "answer": "c",
+            "branches": [
+                "Economics",
+                "Computer Science/IT"
+            ]
+        },
+        {
+            "id": 28,
+            "question": "What is the primary function of a resistor in an electrical circuit?",
+            "options": [
+                "a) To store electrical charge",
+                "b) To control current flow",
+                "c) To generate heat",
+                "d) To amplify signals"
+            ],
+            "answer": "b",
+            "branches": [
+                "Electrical/Electronics"
+            ]
+        },
+        {
+            "id": 29,
+            "question": "What is the purpose of a transformer in an electrical system?",
+            "options": [
+                "a) To convert AC to DC",
+                "b) To change voltage levels",
+                "c) To measure electrical power",
+                "d) To control motor speed"
+            ],
+            "answer": "b",
+            "branches": [
+                "Electrical/Electronics"
+            ]
+        },
+        {
+            "id": 30,
+            "question": "What is the main application of semiconductor devices?",
+            "options": [
+                "a) To provide lighting",
+                "b) To generate sound",
+                "c) To process and control electronic signals",
+                "d) To store large amounts of data"
+            ],
+            "answer": "c",
+            "branches": [
+                "Electrical/Electronics"
+            ]
+        },
+        {
+            "id": 31,
+            "question": "What is the primary goal of macroeconomic policies?",
+            "options": [
+                "a) To maximize individual profits",
+                "b) To stabilize the overall economy",
+                "c) To promote international trade",
+                "d) To reduce government spending"
+            ],
+            "answer": "b",
+            "branches": [
+                "Economics",
+                "Electrical/Electronics"
+            ]
+        },
+        {
+            "id": 32,
+            "question": "What is the main purpose of supply and demand analysis?",
+            "options": [
+                "a) To determine equilibrium prices",
+                "b) To forecast market trends",
+                "c) To manage inventory levels",
+                "d) To analyze consumer behavior"
+            ],
+            "answer": "a",
+            "branches": [
+                "Economics",
+                "Electrical/Electronics"
+            ]
+        },
+        {
+            "id": 33,
+            "question": "What is the role of fiscal policy in an economy?",
+            "options": [
+                "a) To control inflation",
+                "b) To regulate interest rates",
+                "c) To manage government revenue and expenditure",
+                "d) To influence currency exchange rates"
+            ],
+            "answer": "c",
+            "branches": [
+                "Economics",
+                "Electrical/Electronics"
+            ]
+        },
+        {
+            "id": 34,
+            "question": "What is the primary function of a resistor in an electrical circuit?",
+            "options": [
+                "a) To store electrical charge",
+                "b) To control current flow",
+                "c) To generate heat",
+                "d) To amplify signals"
+            ],
+            "answer": "b",
+            "branches": [
+                "Electrical/Electronics"
+            ]
+        },
+        {
+            "id": 35,
+            "question": "What is the purpose of a transformer in an electrical system?",
+            "options": [
+                "a) To convert AC to DC",
+                "b) To change voltage levels",
+                "c) To measure electrical power",
+                "d) To control motor speed"
+            ],
+            "answer": "b",
+            "branches": [
+                "Electrical/Electronics"
+            ]
+        },
+        {
+            "id": 36,
+            "question": "What is the main application of semiconductor devices?",
+            "options": [
+                "a) To provide lighting",
+                "b) To generate sound",
+                "c) To process and control electronic signals",
+                "d) To store large amounts of data"
+            ],
+            "answer": "c",
+            "branches": [
+                "Electrical/Electronics"
+            ]
+        },
+        {
+            "id": 37,
+            "question": "What is the primary goal of personalized learning?",
+            "options": [
+                "a) To improve test scores",
+                "b) To reduce teacher workload",
+                "c) To accommodate individual learning styles",
+                "d) To standardize curriculum"
+            ],
+            "answer": "c",
+            "branches": [
+                "EVERYONE CAN LEARN"
+            ]
+        },
+        {
+            "id": 38,
+            "question": "What is the main purpose of project-based learning?",
+            "options": [
+                "a) To improve critical thinking skills",
+                "b) To increase student motivation",
+                "c) To prepare students for standardized tests",
+                "d) To reduce classroom disruptions"
+            ],
+            "answer": "a",
+            "branches": [
+                "EVERYONE CAN LEARN"
+            ]
+        },
+        {
+            "id": 39,
+            "question": "What is the primary function of a wing in an aircraft?",
+            "options": [
+                "a) To provide thrust",
+                "b) To provide lift",
+                "c) To provide stability",
+                "d) To provide control"
+            ],
+            "answer": "b",
+            "branches": [
+                "AEROSPACE ENGINEERING"
+            ]
+        },
+        {
+            "id": 40,
+            "question": "Which crop is known as the 'King of Cereals'?",
+            "options": [
+                "a) Wheat",
+                "b) Rice",
+                "c) Maize",
+                "d) Barley"
+            ],
+            "answer": "a",
+            "branches": [
+                "AGRICULTURE"
+            ]
+        },
+        {
+            "id": 41,
+            "question": "What is the main purpose of a blueprint in architecture?",
+            "options": [
+                "a) To estimate costs",
+                "b) To provide a detailed plan",
+                "c) To secure permits",
+                "d) To attract investors"
+            ],
+            "answer": "b",
+            "branches": [
+                "ARCHITECTURE"
+            ]
+        },
+        {
+            "id": 42,
+            "question": "Which algorithm is commonly used in AI for pathfinding?",
+            "options": [
+                "a) Dijkstra's Algorithm",
+                "b) A* Algorithm",
+                "c) Bubble Sort",
+                "d) Quick Sort"
+            ],
+            "answer": "b",
+            "branches": [
+                "ARTIFICIAL INTELLIGENCE (AI)"
+            ]
+        },
+        {
+            "id": 43,
+            "question": "What is the primary material used in the construction of bridges?",
+            "options": [
+                "a) Wood",
+                "b) Steel",
+                "c) Plastic",
+                "d) Glass"
+            ],
+            "answer": "b",
+            "branches": [
+                "CIVIL ENGINEERING"
+            ]
+        },
+        {
+            "id": 44,
+            "question": "What is the main focus of commerce?",
+            "options": [
+                "a) Production",
+                "b) Distribution",
+                "c) Consumption",
+                "d) All of the above"
+            ],
+            "answer": "d",
+            "branches": [
+                "COMMERCE"
+            ]
+        },
+        {
+            "id": 45,
+            "question": "Which programming language is known as the 'mother of all languages'?",
+            "options": [
+                "a) Python",
+                "b) C",
+                "c) Java",
+                "d) Fortran"
+            ],
+            "answer": "b",
+            "branches": [
+                "COMPUTER SCIENCE ENGINEERING"
+            ]
+        },
+        {
+            "id": 46,
+            "question": "What does IT stand for?",
+            "options": [
+                "a) Information Technology",
+                "b) Internet Technology",
+                "c) Intelligent Technology",
+                "d) Integrated Technology"
+            ],
+            "answer": "a",
+            "branches": [
+                "COMPUTER SCIENCE/IT"
+            ]
+        },
+        {
+            "id": 47,
+            "question": "What is the study of economics primarily concerned with?",
+            "options": [
+                "a) Wealth distribution",
+                "b) Resource allocation",
+                "c) Market behavior",
+                "d) All of the above"
+            ],
+            "answer": "d",
+            "branches": [
+                "ECONOMICS"
+            ]
+        },
+        {
+            "id": 48,
+            "question": "What is Ohm's Law?",
+            "options": [
+                "a) V = IR",
+                "b) P = IV",
+                "c) E = mc^2",
+                "d) F = ma"
+            ],
+            "answer": "a",
+            "branches": [
+                "ELECTRICAL/ELECTRONICS"
+            ]
+        },
+        {
+            "id": 49,
+            "question": "What is the best way to learn a new skill?",
+            "options": [
+                "a) Practice regularly",
+                "b) Read books",
+                "c) Watch videos",
+                "d) Listen to lectures"
+            ],
+            "answer": "a",
+            "branches": [
+                "EVERYONE CAN LEARN"
+            ]
+        },
+        {
+            "id": 50,
+            "question": "What vitamin is essential for healthy skin?",
+            "options": [
+                "a) Vitamin A",
+                "b) Vitamin B",
+                "c) Vitamin C",
+                "d) Vitamin D"
+            ],
+            "answer": "c",
+            "branches": [
+                "HEALTH AND BEAUTY"
+            ]
+        },
+        {
+            "id": 51,
+            "question": "What is the highest court in the United States?",
+            "options": [
+                "a) Supreme Court",
+                "b) Court of Appeals",
+                "c) District Court",
+                "d) Circuit Court"
+            ],
+            "answer": "a",
+            "branches": [
+                "LAW"
+            ]
+        },
+        {
+            "id": 52,
+            "question": "What is the primary function of management?",
+            "options": [
+                "a) Planning",
+                "b) Organizing",
+                "c) Leading",
+                "d) All of the above"
+            ],
+            "answer": "d",
+            "branches": [
+                "MANAGEMENT"
+            ]
+        },
+        {
+            "id": 53,
+            "question": "What is the primary goal of marketing?",
+            "options": [
+                "a) To sell products",
+                "b) To satisfy customer needs",
+                "c) To advertise products",
+                "d) To conduct market research"
+            ],
+            "answer": "b",
+            "branches": [
+                "MARKETING"
+            ]
+        },
+        {
+            "id": 54,
+            "question": "What is the principle of conservation of energy?",
+            "options": [
+                "a) Energy cannot be created or destroyed",
+                "b) Energy can only be created",
+                "c) Energy can only be destroyed",
+                "d) Energy is infinite"
+            ],
+            "answer": "a",
+            "branches": [
+                "MECHANICAL ENGINEERING"
+            ]
+        },
+        {
+            "id": 55,
+            "question": "What is the study of ocean currents called?",
+            "options": [
+                "a) Oceanography",
+                "b) Hydrodynamics",
+                "c) Marine Biology",
+                "d) Ocean Engineering"
+            ],
+            "answer": "b",
+            "branches": [
+                "OCEAN ENGINEERING"
+            ]
+        },
+        {
+            "id": 56,
+            "question": "Who is known as the 'Father of Western Philosophy'?",
+            "options": [
+                "a) Socrates",
+                "b) Plato",
+                "c) Aristotle",
+                "d) Descartes"
+            ],
+            "answer": "a",
+            "branches": [
+                "PHILOSOPHY"
+            ]
+        },
+        {
+            "id": 57,
+            "question": "What is the study of the human mind and behavior?",
+            "options": [
+                "a) Sociology",
+                "b) Anthropology",
+                "c) Psychology",
+                "d) Neurology"
+            ],
+            "answer": "c",
+            "branches": [
+                "PSYCHOLOGY"
+            ]
+        },
+        {
+            "id": 58,
+            "question": "What is the key to effective skill development?",
+            "options": [
+                "a) Continuous practice",
+                "b) Formal education",
+                "c) Natural talent",
+                "d) Random learning"
+            ],
+            "answer": "a",
+            "branches": [
+                "SKILL DEVELOPMENT TRAINING"
+            ]
+        },
+        {
+            "id": 59,
+            "question": "What is the main raw material used in the textile industry?",
+            "options": [
+                "a) Cotton",
+                "b) Wool",
+                "c) Silk",
+                "d) Synthetic fibers"
+            ],
+            "answer": "a",
+            "branches": [
+                "TEXTILE ENGINEERING"
+            ]
+        },
+        {
+            "id": 60,
+            "question": "What is the main advantage of using composite materials in aerospace engineering?",
+            "options": [
+                "a) Lower cost",
+                "b) Higher strength-to-weight ratio",
+                "c) Easier manufacturing process",
+                "d) Better conductivity"
+            ],
+            "answer": "b",
+            "branches": [
+                "AEROSPACE ENGINEERING"
+            ]
+        },
+        {
+            "id": 61,
+            "question": "What is crop rotation primarily used for in agriculture?",
+            "options": [
+                "a) Reducing soil erosion",
+                "b) Controlling pests and diseases",
+                "c) Increasing crop yield",
+                "d) Enhancing the taste of crops"
+            ],
+            "answer": "b",
+            "branches": [
+                "AGRICULTURE"
+            ]
+        },
+        {
+            "id": 62,
+            "question": "Who is credited with designing the Lotus Temple in India?",
+            "options": [
+                "a) Charles Correa",
+                "b) Le Corbusier",
+                "c) Fariborz Sahba",
+                "d) Zaha Hadid"
+            ],
+            "answer": "c",
+            "branches": [
+                "ARCHITECTURE"
+            ]
+        },
+        {
+            "id": 63,
+            "question": "Which algorithm is used to train a neural network?",
+            "options": [
+                "a) Gradient Descent",
+                "b) Binary Search",
+                "c) Dijkstra's Algorithm",
+                "d) Bubble Sort"
+            ],
+            "answer": "a",
+            "branches": [
+                "ARTIFICIAL INTELLIGENCE (AI)"
+            ]
+        },
+        {
+            "id": 64,
+            "question": "What is the purpose of a slump test in concrete technology?",
+            "options": [
+                "a) Measuring density",
+                "b) Assessing workability",
+                "c) Evaluating strength",
+                "d) Testing durability"
+            ],
+            "answer": "b",
+            "branches": [
+                "CIVIL ENGINEERING"
+            ]
+        },
+        {
+            "id": 65,
+            "question": "What is the primary financial statement that shows a company’s revenues and expenses?",
+            "options": [
+                "a) Balance Sheet",
+                "b) Cash Flow Statement",
+                "c) Income Statement",
+                "d) Statement of Retained Earnings"
+            ],
+            "answer": "c",
+            "branches": [
+                "COMMERCE"
+            ]
+        },
+        {
+            "id": 66,
+            "question": "Which data structure is used for implementing LIFO (Last In First Out) in computer science?",
+            "options": [
+                "a) Queue",
+                "b) Stack",
+                "c) Tree",
+                "d) Graph"
+            ],
+            "answer": "b",
+            "branches": [
+                "COMPUTER SCIENCE ENGINEERING"
+            ]
+        },
+        {
+            "id": 67,
+            "question": "Which programming language is known for its use in web development alongside HTML and CSS?",
+            "options": [
+                "a) Python",
+                "b) Java",
+                "c) JavaScript",
+                "d) C++"
+            ],
+            "answer": "c",
+            "branches": [
+                "COMPUTER SCIENCE/IT"
+            ]
+        },
+        {
+            "id": 68,
+            "question": "What economic concept explains the maximum output that an economy can produce without increasing inflation?",
+            "options": [
+                "a) Potential Output",
+                "b) Gross Domestic Product (GDP)",
+                "c) Aggregate Supply",
+                "d) Marginal Cost"
+            ],
+            "answer": "a",
+            "branches": [
+                "ECONOMICS"
+            ]
+        },
+        {
+            "id": 69,
+            "question": "What is the unit of electrical resistance?",
+            "options": [
+                "a) Volt",
+                "b) Ampere",
+                "c) Ohm",
+                "d) Watt"
+            ],
+            "answer": "c",
+            "branches": [
+                "ELECTRICAL/ELECTRONICS"
+            ]
+        },
+        {
+            "id": 70,
+            "question": "What is the most important habit to develop for continuous learning?",
+            "options": [
+                "a) Taking long breaks",
+                "b) Consistent practice",
+                "c) Avoiding challenges",
+                "d) Following trends"
+            ],
+            "answer": "b",
+            "branches": [
+                "EVERYONE CAN LEARN"
+            ]
+        },
+        {
+            "id": 71,
+            "question": "What is the benefit of using a facial moisturizer?",
+            "options": [
+                "a) Enhances fragrance",
+                "b) Increases oil production",
+                "c) Hydrates skin",
+                "d) Reduces hair growth"
+            ],
+            "answer": "c",
+            "branches": [
+                "HEALTH AND BEAUTY"
+            ]
+        },
+        {
+            "id": 72,
+            "question": "What is the principle of 'stare decisis' in law?",
+            "options": [
+                "a) Cases must be heard in chronological order",
+                "b) Court decisions are based on previous rulings",
+                "c) Laws are created by legislation",
+                "d) Judges must not interpret laws"
+            ],
+            "answer": "b",
+            "branches": [
+                "LAW"
+            ]
+        },
+        {
+            "id": 73,
+            "question": "Which of the following is a leadership style in management?",
+            "options": [
+                "a) Autocratic",
+                "b) Democratic",
+                "c) Laissez-faire",
+                "d) All of the above"
+            ],
+            "answer": "d",
+            "branches": [
+                "MANAGEMENT"
+            ]
+        },
+        {
+            "id": 74,
+            "question": "What is market segmentation in marketing?",
+            "options": [
+                "a) Dividing a market into distinct groups of buyers",
+                "b) Increasing market prices",
+                "c) Decreasing the production cost",
+                "d) Targeting a single customer"
+            ],
+            "answer": "a",
+            "branches": [
+                "MARKETING"
+            ]
+        },
+        {
+            "id": 75,
+            "question": "What is the main purpose of a heat exchanger in mechanical systems?",
+            "options": [
+                "a) Convert energy",
+                "b) Transfer heat",
+                "c) Store energy",
+                "d) Measure temperature"
+            ],
+            "answer": "b",
+            "branches": [
+                "MECHANICAL ENGINEERING"
+            ]
+        },
+        {
+            "id": 76,
+            "question": "What is the study of underwater sound called?",
+            "options": [
+                "a) Hydroacoustics",
+                "b) Hydrodynamics",
+                "c) Hydrography",
+                "d) Hydrology"
+            ],
+            "answer": "a",
+            "branches": [
+                "OCEAN ENGINEERING"
+            ]
+        },
+        {
+            "id": 77,
+            "question": "What is the 'categorical imperative' associated with?",
+            "options": [
+                "a) Utilitarianism",
+                "b) Kantian ethics",
+                "c) Hedonism",
+                "d) Virtue ethics"
+            ],
+            "answer": "b",
+            "branches": [
+                "PHILOSOPHY"
+            ]
+        },
+        {
+            "id": 78,
+            "question": "What is the term for the mental process of acquiring knowledge and understanding through experience and senses?",
+            "options": [
+                "a) Perception",
+                "b) Cognition",
+                "c) Attention",
+                "d) Emotion"
+            ],
+            "answer": "b",
+            "branches": [
+                "PSYCHOLOGY"
+            ]
+        },
+        {
+            "id": 79,
+            "question": "What is the key element of effective communication skills?",
+            "options": [
+                "a) Speaking loudly",
+                "b) Listening actively",
+                "c) Avoiding eye contact",
+                "d) Using jargon"
+            ],
+            "answer": "b",
+            "branches": [
+                "SKILL DEVELOPMENT TRAINING"
+            ]
+        },
+        {
+            "id": 80,
+            "question": "Which natural fiber is the softest and most luxurious?",
+            "options": [
+                "a) Cotton",
+                "b) Wool",
+                "c) Silk",
+                "d) Linen"
+            ],
+            "answer": "c",
+            "branches": [
+                "TEXTILE ENGINEERING"
+            ]
+        },
+        {
+            "id": 81,
+            "question": "What does CSS stand for in web development?",
+            "options": [
+                "a) Computer Style Sheets",
+                "b) Creative Style Sheets",
+                "c) Cascading Style Sheets",
+                "d) Common Style Sheets"
+            ],
+            "answer": "c",
+            "branches": [
+                "WEBSITE & APP DEVELOPMENT"
+            ]
+        },
+        {
+            "id": 82,
+            "question": "What is the main purpose of a fuselage in an aircraft?",
+            "options": [
+                "a) To house the crew, passengers, and cargo",
+                "b) To control the aircraft's direction",
+                "c) To provide lift",
+                "d) To reduce air resistance"
+            ],
+            "answer": "a",
+            "branches": [
+                "AEROSPACE ENGINEERING"
+            ]
+        },
+        {
+            "id": 83,
+            "question": "Which method is commonly used to increase soil fertility in agriculture?",
+            "options": [
+                "a) Pesticide application",
+                "b) Crop rotation",
+                "c) Irrigation",
+                "d) Pruning"
+            ],
+            "answer": "b",
+            "branches": [
+                "AGRICULTURE"
+            ]
+        },
+        {
+            "id": 84,
+            "question": "Who is known as the father of modern architecture?",
+            "options": [
+                "a) Le Corbusier",
+                "b) Frank Lloyd Wright",
+                "c) Ludwig Mies van der Rohe",
+                "d) Louis Sullivan"
+            ],
+            "answer": "d",
+            "branches": [
+                "ARCHITECTURE"
+            ]
+        },
+        {
+            "id": 85,
+            "question": "What type of learning algorithm is used in supervised learning?",
+            "options": [
+                "a) Decision Trees",
+                "b) K-means Clustering",
+                "c) Q-learning",
+                "d) Monte Carlo Methods"
+            ],
+            "answer": "a",
+            "branches": [
+                "ARTIFICIAL INTELLIGENCE (AI)"
+            ]
+        },
+        {
+            "id": 86,
+            "question": "What is the purpose of a cantilever bridge?",
+            "options": [
+                "a) To span a distance without supports in the middle",
+                "b) To allow ships to pass underneath",
+                "c) To support high-speed trains",
+                "d) To reduce traffic congestion"
+            ],
+            "answer": "a",
+            "branches": [
+                "CIVIL ENGINEERING"
+            ]
+        },
+        {
+            "id": 87,
+            "question": "In accounting, what does GAAP stand for?",
+            "options": [
+                "a) Generally Accepted Accounting Principles",
+                "b) Government Approved Accounting Practices",
+                "c) Generalized Accounting and Auditing Procedures",
+                "d) Global Accounting Assessment Protocols"
+            ],
+            "answer": "a",
+            "branches": [
+                "COMMERCE"
+            ]
+        },
+        {
+            "id": 88,
+            "question": "Which data structure allows for constant-time complexity for search operations?",
+            "options": [
+                "a) Linked List",
+                "b) Hash Table",
+                "c) Binary Search Tree",
+                "d) Array"
+            ],
+            "answer": "b",
+            "branches": [
+                "COMPUTER SCIENCE ENGINEERING"
+            ]
+        },
+        {
+            "id": 89,
+            "question": "Which protocol is used for secure communication over a computer network?",
+            "options": [
+                "a) HTTP",
+                "b) FTP",
+                "c) SSH",
+                "d) SMTP"
+            ],
+            "answer": "c",
+            "branches": [
+                "COMPUTER SCIENCE/IT"
+            ]
+        },
+        {
+            "id": 90,
+            "question": "What term describes a sustained period of economic decline?",
+            "options": [
+                "a) Inflation",
+                "b) Recession",
+                "c) Stagflation",
+                "d) Depreciation"
+            ],
+            "answer": "b",
+            "branches": [
+                "ECONOMICS"
+            ]
+        },
+        {
+            "id": 91,
+            "question": "What is the unit of electric power?",
+            "options": [
+                "a) Ohm",
+                "b) Joule",
+                "c) Watt",
+                "d) Coulomb"
+            ],
+            "answer": "c",
+            "branches": [
+                "ELECTRICAL/ELECTRONICS"
+            ]
+        },
+        {
+            "id": 92,
+            "question": "Which method is best for enhancing memory retention?",
+            "options": [
+                "a) Cramming",
+                "b) Spaced repetition",
+                "c) Multitasking",
+                "d) Continuous writing"
+            ],
+            "answer": "b",
+            "branches": [
+                "EVERYONE CAN LEARN"
+            ]
+        },
+        {
+            "id": 93,
+            "question": "What is the primary benefit of a balanced diet?",
+            "options": [
+                "a) Weight gain",
+                "b) Nutritional deficiency",
+                "c) Overall health improvement",
+                "d) Increased sugar levels"
+            ],
+            "answer": "c",
+            "branches": [
+                "HEALTH AND BEAUTY"
+            ]
+        },
+        {
+            "id": 94,
+            "question": "In legal terms, what is a precedent?",
+            "options": [
+                "a) A new law",
+                "b) A previous court decision",
+                "c) A pending case",
+                "d) A legal argument"
+            ],
+            "answer": "b",
+            "branches": [
+                "LAW"
+            ]
+        },
+        {
+            "id": 95,
+            "question": "Which process is crucial for decision-making in management?",
+            "options": [
+                "a) Brainstorming",
+                "b) Planning",
+                "c) Leading",
+                "d) Organizing"
+            ],
+            "answer": "b",
+            "branches": [
+                "MANAGEMENT"
+            ]
+        },
+        {
+            "id": 96,
+            "question": "Which type of market research involves collecting data directly from consumers?",
+            "options": [
+                "a) Secondary research",
+                "b) Desk research",
+                "c) Primary research",
+                "d) Analytical research"
+            ],
+            "answer": "c",
+            "branches": [
+                "MARKETING"
+            ]
+        },
+        {
+            "id": 97,
+            "question": "What is the main purpose of a fuselage in an aircraft?",
+            "options": [
+                "a) Provide lift",
+                "b) Generate thrust",
+                "c) House cargo and passengers",
+                "d) Control roll"
+            ],
+            "answer": "c",
+            "branches": [
+                "AEROSPACE ENGINEERING"
+            ]
+        },
+        {
+            "id": 98,
+            "question": "Which method is commonly used for soil fertility improvement in agriculture?",
+            "options": [
+                "a) Monoculture",
+                "b) Irrigation",
+                "c) Fertilization",
+                "d) Terracing"
+            ],
+            "answer": "c",
+            "branches": [
+                "AGRICULTURE"
+            ]
+        },
+        {
+            "id": 99,
+            "question": "What architectural style is the Sydney Opera House known for?",
+            "options": [
+                "a) Gothic",
+                "b) Baroque",
+                "c) Modern",
+                "d) Renaissance"
+            ],
+            "answer": "c",
+            "branches": [
+                "ARCHITECTURE"
+            ]
+        },
+        {
+            "id": 100,
+            "question": "Which machine learning technique is used for classification problems?",
+            "options": [
+                "a) Regression",
+                "b) Clustering",
+                "c) Classification",
+                "d) Dimensionality Reduction"
+            ],
+            "answer": "c",
+            "branches": [
+                "ARTIFICIAL INTELLIGENCE (AI)"
+            ]
+        }
+    ]
+}
