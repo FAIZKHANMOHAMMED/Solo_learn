@@ -1510,13 +1510,11 @@ button:hover {
         const resultContainer = document.getElementById('result');
         let selectedQuestions = [];
 
-        // Function to get 10 random questions
         function getRandomQuestions() {
             const shuffled = [...quizData.questions].sort(() => 0.5 - Math.random());
             return shuffled.slice(0, 10);
         }
 
-        // Load the quiz with random questions
         function loadQuiz() {
             selectedQuestions = getRandomQuestions();
             selectedQuestions.forEach((q, index) => {
@@ -1537,7 +1535,7 @@ button:hover {
                     const optionInput = document.createElement('input');
                     optionInput.type = 'radio';
                     optionInput.name = `question-${q.id}`;
-                    optionInput.value = option[0]; // First letter of option (e.g., 'a')
+                    optionInput.value = option[0];
 
                     optionLabel.appendChild(optionInput);
                     optionLabel.appendChild(document.createTextNode(option));
@@ -1551,7 +1549,6 @@ button:hover {
             });
         }
 
-        // Check the answers and calculate the score
         function submitQuiz() {
             let score = 0;
 
@@ -1564,8 +1561,6 @@ button:hover {
 
             resultContainer.innerText = `You scored ${score} out of ${selectedQuestions.length}`;
         }
-
-        // Initialize the quiz
         loadQuiz();
     </script>
 </body>
