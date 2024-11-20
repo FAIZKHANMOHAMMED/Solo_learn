@@ -1,6 +1,6 @@
-let quizData = []; 
-let selectedQuestions = []; 
-let userAnswers = {}; 
+let quizData = [];
+let selectedQuestions = [];
+let userAnswers = {};
 
 fetch('quiz_bank.json')
   .then(response => {
@@ -11,7 +11,7 @@ fetch('quiz_bank.json')
   })
   .then(data => {
     quizData = data.questions;
-    selectedQuestions = getRandomQuestions(quizData, 10); 
+    selectedQuestions = getRandomQuestions(quizData, 10);
     renderQuiz(selectedQuestions);
   })
   .catch(error => {
@@ -20,7 +20,7 @@ fetch('quiz_bank.json')
 
 function getRandomQuestions(questions, count) {
   const shuffled = questions.sort(() => 0.5 - Math.random());
-  return shuffled.slice(0, count); 
+  return shuffled.slice(0, count);
 }
 
 function renderQuiz(questions) {
@@ -47,7 +47,6 @@ function renderQuiz(questions) {
   });
 }
 
-
 function submitQuiz() {
   const resultContainer = document.getElementById('result');
   let score = 0;
@@ -64,7 +63,7 @@ function submitQuiz() {
 }
 function renderQuiz(questions) {
   const container = document.getElementById('quiz-container');
-  container.innerHTML = ''; 
+  container.innerHTML = '';
 
   questions.forEach((question, index) => {
     const questionDiv = document.createElement('div');
