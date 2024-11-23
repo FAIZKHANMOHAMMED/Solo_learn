@@ -47,6 +47,7 @@ function renderQuiz(questions) {
   });
 }
 
+
 function submitQuiz() {
   const resultContainer = document.getElementById('result');
   let score = 0;
