@@ -1,0 +1,17 @@
+
+  {
+    "name": "json-to-mongodb",
+    "version": "1.0.0",
+    "description": "Store JSON in MongoDB",
+    "main": "server.js",
+    "scripts": {
+      "start": "node server.js",
+      "store-json": "node backend/storeJson.js"
+    },
+    "dependencies": {
+      "cors": "^2.8.5",
+      "express": "^4.18.2",
+      "mongoose": "^7.0.3"
+    }
+  }
+  
